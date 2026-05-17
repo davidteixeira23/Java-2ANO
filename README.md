@@ -1,49 +1,47 @@
-# ☕ [Nome do Seu Projeto Java]
+# ☕ Meu Hub de Java
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge" alt="Status Badge"/>
 </p>
 
-## 📝 Descrição
-O **[Nome do Projeto]** é uma aplicação desenvolvida em Java com o objetivo de [explique brevemente o que o sistema faz, ex: gerenciar um sistema de cadastro, calcular salários, controlar um fluxo, etc.].
+## 📝 Sobre o Repositório
+Este repositório foi criado para centralizar e organizar todos os meus códigos desenvolvidos em **Java**. Aqui eu guardo desde exercícios de lógica e atividades escolares/acadêmicas até projetos mais completos e interfaces gráficas. 
 
-Este projeto foi construído para consolidar conhecimentos em [ex: Programação Orientada a Objetos (POO), Interfaces Gráficas com Java Swing, Estruturas de Dados].
+O objetivo principal é acompanhar a minha evolução na linguagem, praticar os conceitos de Programação Orientada a Objetos (POO) e documentar meus aprendizados.
 
 ---
 
-## 🚀 Funcionalidades
-*   **Funcionalidade 1:** Descrição breve do que ela faz.
-*   **Funcionalidade 2:** Descrição breve do que ela faz.
-*   **Interface Gráfica:** Tela interativa e amigável para o usuário (se aplicável).
+## 🗂️ Estrutura do Repositório
+
+O projeto está organizado em pastas para facilitar a navegação. Abaixo está a descrição do que você encontra em cada uma:
+
+*   📂 `exercicios-logica/` -> Resoluções de problemas focados em lógica (estruturas condicionais, loops, arrays).
+*   📂 `atividades-escolares/` -> Trabalhos, desafios e tarefas práticas passadas em aula.
+*   📂 `interfaces-graficas/` -> Códigos focados em telas e componentes visuais (Java Swing / AWT).
+
+
+
+---
+
+## 🚀 Conceitos Praticados
+À medida que avanço nos estudos, aplico os seguintes conceitos neste repositório:
+- [x] Sintaxe básica e manipulação de variáveis
+- [x] Estruturas de repetição (`for`, `while`) e condicionais (`if`, `else`, `switch`)
+- [x] Programação Orientada a Objetos (Classes, Objetos, Herança, Polimorfismo e Encapsulamento)
+- [x] Tratamento de exceções (`try-catch`)
+- [x] Desenvolvimento de Interfaces Gráficas (GUI)
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-As seguintes ferramentas foram utilizadas na construção do projeto:
-*   **[Java SE](https://www.oracle.com/java/)** (Versão utilizada, ex: 17 ou 21)
-*   **[Java Swing / AWT]** (Se utilizou interface gráfica)
-*   **[IDE utilizada, ex: VS Code / NetBeans / IntelliJ]**
+- **Linguagem:** Java (JDK 17+)
+- **Ambiente de Desenvolvimento:** [Sua IDE favorita, ex: VS Code / IntelliJ / NetBeans]
 
 ---
 
-## 📸 Demonstração
-*(Se o seu projeto tiver uma interface gráfica, tire um print e coloque o arquivo na pasta do projeto para mostrar aqui. Se for via terminal, pode apagar esta seção ou colocar um print do terminal).*
-
-<p align="center">
-  <img src="./screenshot.png" alt="Demonstração do Projeto" width="600px">
-</p>
-
----
-
-## 🔧 Como Executar o Projeto
-
-### Pré-requisitos
-Para rodar a aplicação, você precisará ter instalado em sua máquina:
-*   [Java JDK](https://www.oracle.com/java/technologies/downloads/) (Versão 17 ou superior)
-*   Uma IDE de sua preferência ou o terminal configurado.
-
-### Passo a Passo
-1. Clone este repositório para a sua máquina local:
+## 🔧 Como Executar os Códigos
+Como este repositório contém múltiplos arquivos independentes, a melhor forma de rodar é:
+1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
