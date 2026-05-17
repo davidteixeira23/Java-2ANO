@@ -36,16 +36,6 @@ public class Janela {
          } else {
                   JOptionPane.showMessageDialog(null,"Os valores são iguais");
 
-         }  
-         
-         
-         
-         
-     }
-
-     
+         }                    
      }    
-    
-    
-    
-
+     }    
