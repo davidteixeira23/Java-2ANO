@@ -19,18 +19,6 @@ O projeto está organizado em pastas para facilitar a navegação. Abaixo está 
 *   📂 `atividades-escolares/` -> Trabalhos, desafios e tarefas práticas passadas em aula.
 *   📂 `interfaces-graficas/` -> Códigos focados em telas e componentes visuais (Java Swing / AWT).
 
-
-
----
-
-## 🚀 Conceitos Praticados
-À medida que avanço nos estudos, aplico os seguintes conceitos neste repositório:
-- [x] Sintaxe básica e manipulação de variáveis
-- [x] Estruturas de repetição (`for`, `while`) e condicionais (`if`, `else`, `switch`)
-- [x] Programação Orientada a Objetos (Classes, Objetos, Herança, Polimorfismo e Encapsulamento)
-- [x] Tratamento de exceções (`try-catch`)
-- [x] Desenvolvimento de Interfaces Gráficas (GUI)
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
