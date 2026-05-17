@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-<img src="https://img.shields.io/github/commits/davidteixeira23/Java/master?style=for-the-badge&color=orange" alt="Commits"/>  <img src="https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge" alt="Status Badge"/>
+  <img src="https://img.shields.io/github/commits/davidteixeira23/Java/main?style=for-the-badge&color=orange" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge" alt="Status Badge"/>
 </p>
-
 ## 📝 Sobre o Repositório
 Este repositório foi criado para centralizar e organizar todos os meus códigos desenvolvidos em **Java**. Aqui eu guardo desde exercícios de lógica e atividades escolares/acadêmicas até projetos mais completos e interfaces gráficas. 
 
