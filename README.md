@@ -2,10 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/github/commits-per-year/m/seu-usuario/nome-do-repositorio?style=for-the-badge&color=orange" alt="Commits"/>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge" alt="Status Badge"/>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial&hide_border=true" alt="Status do GitHub" />
-</p>
 </p>
 
 ## 📝 Sobre o Repositório
