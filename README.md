@@ -15,8 +15,6 @@ O objetivo principal é acompanhar a minha evolução na linguagem, praticar os 
 
 O projeto está organizado em pastas para facilitar a navegação. Abaixo está a descrição do que você encontra em cada uma:
 
-*   📂 `exercicios-logica/` -> Resoluções de problemas focados em lógica (estruturas condicionais, loops, arrays).
-*   📂 `atividades-escolares/` -> Trabalhos, desafios e tarefas práticas passadas em aula.
 *   📂 `interfaces-graficas/` -> Códigos focados em telas e componentes visuais (Java Swing / AWT).
 
 ---
