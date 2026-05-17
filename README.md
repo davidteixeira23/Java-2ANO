@@ -36,7 +36,7 @@ O projeto está organizado em pastas para facilitar a navegação. Abaixo está 
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagem:** Java (JDK 17+)
-- **Ambiente de Desenvolvimento:** [Sua IDE favorita, ex: VS Code / IntelliJ / NetBeans]
+- **Ambiente de Desenvolvimento:** NetBeans
 
 ---
 
