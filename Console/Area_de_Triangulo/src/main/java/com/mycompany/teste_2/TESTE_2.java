@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 public class TESTE_2 {
 1234567890
 1234567890
-12345
+123456
     public static void main(String[] args) {
     
        triangulo calc = new triangulo();
