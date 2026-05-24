@@ -15,7 +15,7 @@ package com.mycompany.areavolumecilindrogui;
  1234567890
  1234567890
  1234567890
- 123456790
+ 1234567890
  */
 public class Calculo {
     
