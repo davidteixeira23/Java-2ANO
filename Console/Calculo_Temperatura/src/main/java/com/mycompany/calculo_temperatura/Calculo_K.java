@@ -12,7 +12,7 @@ public class Calculo_K {
     Scanner scanner = new Scanner (System.in);
     double k;
     double c;
-    s
+    
     double Inicio_C_K () {
     System.out.println("Digite o valor de Kelvin");
     k = scanner.nextDouble();
