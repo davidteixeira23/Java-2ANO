@@ -9,7 +9,7 @@ import javax.swing.*;
  * @author Admin
  */
 public class BotaoLimpar {
-sd
+
     public static void main(String[] args) {
      
         Janela app1 = new Janela();
