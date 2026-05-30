@@ -13,7 +13,7 @@ public class BotaoLimpar {
     public static void main(String[] args) {
      
         Janela app1 = new Janela();
-        lim
+        
         app1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
     }
